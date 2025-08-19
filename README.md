@@ -3,36 +3,41 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
+![Tkinter](https://img.shields.io/badge/Tkinter-0078D4?style=for-the-badge&logo=python&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-Desktop-green?style=for-the-badge&logo=desktop&logoColor=white)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/machapraveen/tkinter-dashboards?style=for-the-badge)](https://github.com/machapraveen/tkinter-dashboards/stargazers)
+[![Issues](https://img.shields.io/github/issues/machapraveen/tkinter-dashboards?style=for-the-badge)](https://github.com/machapraveen/tkinter-dashboards/issues)
 
 </div>
 
 ## 📖 Overview
 
-Tkinter Dashboards is a comprehensive implementation showcasing advanced techniques and modern development practices. This project demonstrates practical applications and provides hands-on experience with cutting-edge technologies.
+Collection of dashboard implementations using Tkinter for desktop applications
+
+This project demonstrates practical implementation of advanced concepts and provides hands-on experience with modern technologies and best practices.
 
 ## ✨ Key Features
 
-- 🔥 **Professional Implementation**: Industry-standard coding practices and architecture
-- 🛠️ **Modern Tech Stack**: Utilizing the latest tools and frameworks
-- 📊 **Comprehensive Documentation**: Detailed guides and examples
-- 🧪 **Well-Tested**: Robust testing and quality assurance
-- 🚀 **Production Ready**: Optimized for performance and scalability
+- 🔥 **Dashboard layouts**
+- 🔥 **Data visualization**
+- 🔥 **GUI components**
+- 🔥 **Multiple implementations**
 
 ## 🛠️ Technology Stack
 
 - **Python**
+- **Tkinter**
+- **GUI**
+- **Data Visualization**
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
 - Python 3.8 or higher
+
 
 
 
@@ -46,8 +51,7 @@ Tkinter Dashboards is a comprehensive implementation showcasing advanced techniq
 
 2. **Install dependencies**
    ```bash
-   pip install -e .
-   
+   pip install -r requirements.txt
    ```
 
 3. **Run the application**
@@ -60,36 +64,37 @@ Tkinter Dashboards is a comprehensive implementation showcasing advanced techniq
 ```
 tkinter-dashboards/
 ├── README.md
-├── requirements.txt
 ├── main.py
 ├── main2.py
 ├── main3.py
 ├── main4.py
+├── requirements.txt
 └── ...
 ```
 
 ## 🎯 Usage
 
-This project provides a comprehensive implementation that can be used for:
-
-- Learning and educational purposes
-- Professional development and production use
-- Research and experimentation
-- Integration with other systems
-
 ### Basic Usage
 
-```python
-# Example usage pattern
-# Specific implementation details available in the source code
-```
+This project provides comprehensive functionality for collection of dashboard implementations using tkinter for desktop applications. 
+
+### Advanced Features
+
+The implementation includes advanced capabilities and optimizations for professional use cases.
 
 ## 📈 Performance
 
-- Optimized algorithms and data structures
-- Efficient memory usage
-- Scalable architecture
-- Fast execution times
+- Optimized for efficiency and scalability
+- Modern architecture patterns
+- Best practices implementation
+- Comprehensive error handling
+
+## 🧪 Testing
+
+Run tests to verify functionality:
+```bash
+python -m pytest tests/
+```
 
 ## 🤝 Contributing
 
